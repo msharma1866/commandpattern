@@ -1,0 +1,11 @@
+D:\Learning\Design patterns\Command\bin\Debug\netcoreapp2.0\Command.deps.json
+D:\Learning\Design patterns\Command\bin\Debug\netcoreapp2.0\Command.runtimeconfig.json
+D:\Learning\Design patterns\Command\bin\Debug\netcoreapp2.0\Command.runtimeconfig.dev.json
+D:\Learning\Design patterns\Command\bin\Debug\netcoreapp2.0\Command.dll
+D:\Learning\Design patterns\Command\bin\Debug\netcoreapp2.0\Command.pdb
+D:\Learning\Design patterns\Command\obj\Debug\netcoreapp2.0\Command.csprojAssemblyReference.cache
+D:\Learning\Design patterns\Command\obj\Debug\netcoreapp2.0\Command.csproj.CoreCompileInputs.cache
+D:\Learning\Design patterns\Command\obj\Debug\netcoreapp2.0\Command.AssemblyInfoInputs.cache
+D:\Learning\Design patterns\Command\obj\Debug\netcoreapp2.0\Command.AssemblyInfo.cs
+D:\Learning\Design patterns\Command\obj\Debug\netcoreapp2.0\Command.dll
+D:\Learning\Design patterns\Command\obj\Debug\netcoreapp2.0\Command.pdb
